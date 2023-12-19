@@ -43,3 +43,12 @@ http://download.geonames.org/export/dump/alternateNamesV2.zip
 http://download.geonames.org/export/dump/cities15000.zip
 
 http://download.geonames.org/export/dump/countryInfo.zip
+
+### План реализации:
+
+*Этап 1*  - Знакомство с Geonames 
+
+*Этап 2* - Тестирование моделей, поиск решения
+
+*Этап 3* - оформление, упаковка. 
+
