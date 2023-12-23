@@ -28,8 +28,6 @@ countryInfo
 
 таблицы geonames можно скачать здесь http://download.geonames.org/export/dump/
 
-Тестовый датасет: https://disk.yandex.ru/d/wC296Rj3Yso2AQ
-
 ## Настройка базы данных MySQL из данных GeoNames:
 
 простой скрипт для создания базы данных GeoNames для потребностей заказчика.
