@@ -53,7 +53,8 @@ http://download.geonames.org/export/dump/countryInfo.zip
 
 Полученная модель работает, но явного улычшения не видно. Модель LaBSE - отлично справляется и может быть предложана заказчику как окончательный продукт.
 
-       corpus_id	score	name
+ get_sim('русь')
+corpus_id	score	name
 0	421	0.606410	Rossosh’
 1	945	0.598500	Ryl’sk
 2	1014	0.596121	Rezh
